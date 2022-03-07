@@ -35,6 +35,34 @@ public class Artist implements Serializable {
     public void setFirstname(String firstname){
         this.firstname = firstname;
     }
+    public String getLastname(){
+        return lastname;
+    }
+    public void setLastname(String lastname){
+        this.lastname = lastname;
+    }
+    public Date getBorn(){
+        return born;
+    }
+    public void setBorn(Date born){
+        this.born = born;
+    }
+    public Date getDied(){
+        return died;
+    }
+    public void setDied(Date died){
+        this.died = died;
+    }
+
+    @Override
+    public String toString() {
+        return "Artist [id_artist=" + id_artist + ", firstname=" + firstname + ", lastname=" + lastname
+                + ", born= " + born + ", died= " + died
+                + "]";
+    }
+
+
+
 
     public static void main(String[] args) {
 
