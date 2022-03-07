@@ -18,12 +18,4 @@ public class Album implements Serializable {
         this.born = born;
         this.died = died;
     }
-
-
-
-
-
-    public static void main(String[] args) {
-
-    }
 }

@@ -60,11 +60,4 @@ public class Artist implements Serializable {
                 + ", born= " + born + ", died= " + died
                 + "]";
     }
-
-
-
-
-    public static void main(String[] args) {
-
-    }
 }
