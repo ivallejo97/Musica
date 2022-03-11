@@ -1,0 +1,5 @@
+1,1,Ironside,4.30f
+2,2,Yuve Yuve Yu,4.42f
+3,3,Revolution, 4.16f
+4,2,Holier Than Heaven,4.06f
+5,1,Berserkir,3.55f

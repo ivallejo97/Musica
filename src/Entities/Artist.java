@@ -57,7 +57,7 @@ public class Artist implements Serializable {
     @Override
     public String toString() {
         return "Artist [id_artist=" + id_artist + ", firstname=" + firstname + ", lastname=" + lastname
-                + ", born= " + born + ", died= " + died
+                + ", born= " + born.toString() + ", died= " + (died == null ? "N/A" : died.toString())
                 + "]";
     }
 }

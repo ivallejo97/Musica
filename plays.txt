@@ -1,0 +1,5 @@
+1,1,Voz
+2,2,Bateria
+3,3,Guitarra Eléctrica
+4,4, Bajo
+5,5, Morin Khuur

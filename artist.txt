@@ -1,0 +1,5 @@
+1,Amon,Amarth,1992-01-01,NULL
+2,The Hu,2016-01-01,NULL
+3,Equilibrium,2001-01-01,NULL
+4,The Amity Affliction,2003-01-01,NULL
+5, Danheim, 2016-01-10,NULL
